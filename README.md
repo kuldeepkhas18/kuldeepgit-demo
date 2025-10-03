@@ -1,3 +1,3 @@
 # kuldeepgit-demo
-this is my first repository
-author - kuldeep khas
+this is my first repository,
+Author - kuldeep khas
